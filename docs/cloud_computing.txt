@@ -1,0 +1,36 @@
+Cloud Computing Fundamentals
+
+Cloud computing delivers computing services including servers, storage, databases, networking, software, and analytics over the internet. This model offers flexibility, scalability, and cost-effectiveness.
+
+Service Models:
+
+1. Infrastructure as a Service (IaaS): Provides virtualized computing resources over the internet. Users can rent virtual machines, storage, and networks. Examples include AWS EC2, Google Compute Engine, and Azure Virtual Machines.
+
+2. Platform as a Service (PaaS): Offers a platform allowing customers to develop, run, and manage applications without dealing with infrastructure. Examples include Heroku, Google App Engine, and AWS Elastic Beanstalk.
+
+3. Software as a Service (SaaS): Delivers software applications over the internet on a subscription basis. Examples include Gmail, Salesforce, and Microsoft Office 365.
+
+Deployment Models:
+
+- Public Cloud: Services are delivered over the public internet and shared across organizations
+- Private Cloud: Infrastructure is dedicated to a single organization
+- Hybrid Cloud: Combines public and private clouds
+- Multi-Cloud: Uses multiple cloud providers
+
+Key Benefits:
+
+Cloud computing offers numerous advantages:
+- Cost reduction through pay-as-you-go pricing
+- Scalability to handle varying workloads
+- Accessibility from anywhere with internet connection
+- Automatic software updates and maintenance
+- Disaster recovery and backup solutions
+
+Major Providers:
+
+Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform are the leading cloud providers. Each offers comprehensive services for computing, storage, networking, and specialized services like machine learning and analytics.
+
+Security and Compliance:
+
+Cloud security involves protecting data, applications, and infrastructure. Providers implement various security measures including encryption, identity management, and compliance certifications. Organizations must understand shared responsibility models.
+

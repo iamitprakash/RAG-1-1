@@ -1,0 +1,36 @@
+Database Systems Overview
+
+A database is an organized collection of data stored and accessed electronically. Database systems are crucial for managing large amounts of information efficiently.
+
+Types of Databases:
+
+1. Relational Databases (RDBMS): Store data in tables with rows and columns. They use SQL (Structured Query Language) for querying. Examples include MySQL, PostgreSQL, and Oracle.
+
+2. NoSQL Databases: Designed for unstructured or semi-structured data. Types include document databases (MongoDB), key-value stores (Redis), and graph databases (Neo4j).
+
+3. In-Memory Databases: Store data in RAM for extremely fast access. Redis is a popular example.
+
+ACID Properties:
+
+Relational databases follow ACID principles:
+- Atomicity: Transactions are all-or-nothing
+- Consistency: Database remains in a valid state
+- Isolation: Concurrent transactions don't interfere
+- Durability: Committed changes persist
+
+Database Design:
+
+Good database design involves:
+- Normalization to reduce data redundancy
+- Proper indexing for query performance
+- Establishing relationships between tables
+- Ensuring data integrity through constraints
+
+Query Optimization:
+
+Database performance depends on efficient query design. This includes using appropriate indexes, avoiding unnecessary joins, and understanding the query execution plan. Regular monitoring and optimization are essential for maintaining system performance.
+
+Modern Trends:
+
+Cloud databases, distributed systems, and database-as-a-service offerings have transformed how organizations manage data. Technologies like data warehouses and data lakes enable advanced analytics and business intelligence.
+
