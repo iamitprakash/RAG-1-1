@@ -171,7 +171,7 @@ def main():
     # Step 2: Split into chunks
     chunks = split_documents(documents)
     
-    # # Step 3: Create vector store
+    #  Step 3: Create vector store
     vectorstore = create_vector_store(chunks, persistent_directory)
     
     print("\n✅ Ingestion complete! Your documents are now ready for RAG queries.")
